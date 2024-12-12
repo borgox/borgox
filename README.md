@@ -4,6 +4,7 @@
 - 😄 he/him 16 y/o
 - 🔭 I’m a passionate Python developer currently focused on the Discord API usage, and I’m also a high school student pursuing IT. I love working on intriguing projects that push my limits further and further!
 - 🌱 I'm currently learning Assembly, Malware Analysis & Reverse Engineering AND Web Development
+- 🕳 Also currently **learning** reverse engineering and AI/Neural Networks for good $$
 
 
 ## 🛠️ **Tech Stack**
