@@ -25,7 +25,15 @@
 
 ## 💬 **Connect with Me**
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/borgo)
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://borgodev.me" style="display: flex; align-items: center; text-decoration: none;">
+        <img src="https://i.imgur.com/rv33tPE.png" alt="My Website" width="30", height="30">
+    </a>
+    <a href="https://borgodev.me" style="font-size: 16px; font-weight: bold; text-decoration: none; color: inherit;">
+        My Website
+    </a>
+</div>
+
 
 ---
 
