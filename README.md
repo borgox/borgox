@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://borgodev.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="https://borgox.github.io/home"><img src="https://img.shields.io/badge/Home_Page-9E9E9E?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://rlpfp.borgox.tech"><img src="https://img.shields.io/badge/Rocket_League_Profile-00BFFF?style=flat" /></a>
+  <a href="https://rlpfp.borgox.tech"><img src="https://img.shields.io/badge/Rocket_League_Mod-00BFFF?style=flat" /></a>
 </p>
 
 > **"Learning something new every day – one byte at a time!"** 💾
