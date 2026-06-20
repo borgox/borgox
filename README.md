@@ -83,3 +83,29 @@ When LLMs blew up, I started using them as a personal tutor to help me grasp com
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
 
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=borgox&show_icons=true&hide_border=true&title_color=FF003C&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true" width="400" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgox&layout=compact&hide_border=true&title_color=FF003C&text_color=FFFFFF&bg_color=0D1117" width="300" />
+
+</div>
+
+### 🐍 My Contribution Snake
+
+<div align="center">
+
+<picture>
+  <!-- Dark Mode Snake -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borgox/borgox/output/github-contribution-grid-snake-dark.svg">
+  <!-- Light Mode Snake -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/borgox/borgox/output/github-contribution-grid-snake.svg">
+  <!-- Fallback -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/borgox/borgox/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
