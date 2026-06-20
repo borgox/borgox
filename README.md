@@ -5,7 +5,7 @@
 - I really like Reverse Engineering, Modding and just adding my own style to everything!
 - Currently learning **Assembly**, **Rust**, **Reverse Engineering**, and a bunch of low level stuff that i love!!
 ## My story
-I've been into IT for about 6/7 years, I started with some discord stuff (which as of today I call "larping") and at some point discovered my LOVE for low level stuff. I also really like Cyberssecurity and sometimes I still develop some tools and skiddy stuff (but with a more experienced/professional touch). Once since LLMs became popular, I started using them to help me learn a specific subject like a personal private teacher. Yes, I've used it to help me code and do other stuff too but **who cares** as long as I decide the logic and the AI can actually handle my plans.
+I've been into IT for about 6/7 years, I started with some discord stuff (which as of today I call "larping") and at some point discovered my LOVE for low level stuff. I also really like Cyberssecurity and sometimes I still develop some tools and skiddy stuff (but with a more experienced/professional touch). Once LLMs became popular, I started using them to help me learn a specific subject like a personal private teacher. Yes, I've used it to help me code and do other stuff too but **who cares** as long as I decide the logic and the AI can actually handle my plans.
 #### Notable projects I'm working on
 - Self-Hosted Captcha solving servvice: Now supports Cloudflare and support is planned for HCaptcha, Kasada, RECaptcha (v1, v2, v3) and more.
 - KuruDecompiler: A decompiiler for Rocket League that turns a generated .json dump into Unreal Script decompiled packages.
