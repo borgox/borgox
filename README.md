@@ -88,10 +88,10 @@ When LLMs blew up, I started using them as a personal tutor to help me grasp com
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=borgox&show_icons=true&hide_border=true&title_color=FF003C&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=borgox&show_icons=true&hide_border=true&title_color=FF003C&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" width="45%" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgox&layout=compact&hide_border=true&title_color=FF003C&text_color=FFFFFF&bg_color=0D1117" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgox&layout=compact&hide_border=true&title_color=FF003C&text_color=FFFFFF&bg_color=0D1117&langs_count=8" width="45%" />
 
 </div>
 
