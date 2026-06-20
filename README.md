@@ -35,7 +35,7 @@ I've been into IT for about 6/7 years, I started with some discord stuff (which 
   </a>
   
   <!-- Discord -->
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/1086612851990470671">
     <img src="https://img.shields.io/badge/Discord-9E9E9E?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
