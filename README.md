@@ -80,7 +80,7 @@ When LLMs blew up, I started using them as a personal tutor to help me grasp com
 <div align="center">
 
 <!-- Activity Graph -->
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=borgox&bg_color=0D1117&color=00FF41&line=FF003C&point=FFFFFF&hide_border=true&area=true&hide_title=true)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=borgox&bg_color=0D1117&color=FF003C&line=FF003C&point=FFFFFF&hide_border=true&area=true&hide_title=true)
 
 </div>
 
