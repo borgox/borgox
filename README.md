@@ -97,13 +97,18 @@ When LLMs blew up, I started using them as a personal tutor to help me grasp com
 
 ---
 
-###  Contribution Snake
+### 🐍 My Contribution Snake
 
 <div align="center">
 
- 
-
-![Contribution Graph Preview](https://github-readme-activity-graph.vercel.app/graph?username=borgox&bg_color=0D1117&color=00FF41&line=FF003C&point=FFFFFF&hide_border=true)
+<picture>
+  <!-- Dark Mode Snake -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borgox/borgox/output/github-contribution-grid-snake-dark.svg">
+  <!-- Light Mode Snake -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/borgox/borgox/output/github-contribution-grid-snake.svg">
+  <!-- Fallback -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/borgox/borgox/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
