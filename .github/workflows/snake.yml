@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+# Grants the bot permission to write to the repo
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
