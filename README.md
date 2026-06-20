@@ -1,20 +1,20 @@
 # Hi, I'm borgox! :3
 
-**Self-Taught Freelancer Developer** | **4rd Year IT Student** | *he/him* 🇮🇹
+**Self-Taught Freelancer Developer** | **4th Year IT Student** | *he/him* 🇮🇹
 
 - I really like Reverse Engineering, Modding and just adding my own style to everything!
 - Currently learning **Assembly**, **Rust**, **Reverse Engineering**, and a bunch of low level stuff that i love!!
 ## My story
-I've been into IT for about 6/7 years, I started with some discord stuff (which as of today I call "larping") and at some point discovered my LOVE for low level stuff. I also really like Cyberssecurity and sometimes I still develop some tools and skiddy stuff (but with a more experienced/professional touch). Once LLMs became popular, I started using them to help me learn a specific subject like a personal private teacher. Yes, I've used it to help me code and do other stuff too but **who cares** as long as I decide the logic and the AI can actually handle my plans.
+I've been into IT for about 6/7 years, I started with some discord stuff (which as of today I call "larping") and at some point discovered my LOVE for low level stuff. I also really like Cybersecurity and sometimes I still develop some tools and skiddy stuff (but with a more experienced/professional touch). Once LLMs became popular, I started using them to help me learn a specific subject like a personal private teacher. Yes, I've used it to help me code and do other stuff too but **who cares** as long as I decide the logic and the AI can actually handle my plans.
 #### Notable projects I'm working on
-- Self-Hosted Captcha solving servvice: Now supports Cloudflare and support is planned for HCaptcha, Kasada, RECaptcha (v1, v2, v3) and more.
-- KuruDecompiler: A decompiiler for Rocket League that turns a generated .json dump into Unreal Script decompiled packages.
+- Self-Hosted Captcha solving service: Now supports Cloudflare and support is planned for HCaptcha, Kasada, RECaptcha (v1, v2, v3) and more.
+- KuruDecompiler: A decompiler for Rocket League that turns a generated .json dump into Unreal Script decompiled packages.
 - Kuru: A Rocket League mod loader made for offline use that is gonna be my playground on the game for a while while also helping others make mods with an *(hopefully)* easier SDK than bakkesmod.
-- HCaptcha research: Reading the WASM disassembling of hsw and integrating it with my own existing solver, currently on hold cause im fine-tuning a YOLO model for captchas.
-- Nuitka Decompiler: A decompiler that can consistently read and parse Nuitka binaries compiled with python cause usually the pattern for the __main__ package is the same and reading BN's High/Low Level IL makes it easy to understand python-compiled code. | Not Started Yet.
-- My own portfolio: Remaking it cause it's not updated and uses React. Yall can imagine what Github Pages + React does to the website performance...
+- HCaptcha research: Reading the WASM disassembling of hsw and integrating it with my own existing solver, currently on hold because im fine-tuning a YOLO model for captchas.
+- Nuitka Decompiler: A decompiler that can consistently read and parse Nuitka binaries compiled with python because usually the pattern for the __main__ package is the same and reading BN's High/Low Level IL makes it easy to understand python-compiled code. | Not Started Yet.
+- My own portfolio: Remaking it because it's not updated and uses React. Yall can imagine what Github Pages + React does to the website performance...
   
-> NOTE: While most of my work may seem unethic, it actually isn't. I purely do this for research and to learn/explore my favvourite topics, i also make sure to include a disclaimer everytime stating that nothing i do has malicious intent.
+> NOTE: While most of my work may seem unethical, it actually isn't. I purely do this for research and to learn/explore my favourite topics, i also make sure to include a disclaimer every time stating that nothing i do has malicious intent.
 
 
 <!--TODO: Update these -->
