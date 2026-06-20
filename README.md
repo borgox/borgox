@@ -86,8 +86,9 @@ When LLMs blew up, I started using them as a personal tutor to help me grasp com
 
 <div align="center">
 
-<!-- Streak Stats -->
+!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=borgox&hide_border=true&background=0D1117&border=FF003C&ring=00FF41&fire=FF003C&currStreakLabel=00FF41&dates=FFFFFF)](https://git.io/streak-stats)
+
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgox&layout=compact&hide_border=true&title_color=FF003C&text_color=FFFFFF&bg_color=0D1117&langs_count=8&count_private=true)
