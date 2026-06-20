@@ -1,21 +1,24 @@
 # Hi, I'm borgox! :3
 
-**Self-Taught Freelancer Developer** | **4th Year IT Student** | *he/him* 🇮🇹
+**Self-Taught Freelance Developer** | **4th Year IT Student** | *he/him* 🇮🇹
 
-- I really like Reverse Engineering, Modding and just adding my own style to everything!
-- Currently learning **Assembly**, **Rust**, **Reverse Engineering**, and a bunch of low level stuff that i love!!
+- I really like Reverse Engineering, Modding, and just adding my own style to everything!
+- Currently learning **Assembly**, **Rust**, **Reverse Engineering**, and a bunch of low-level stuff that I love!!
+
 ## My story
-I've been into IT for about 6/7 years, I started with some discord stuff (which as of today I call "larping") and at some point discovered my LOVE for low level stuff. I also really like Cybersecurity and sometimes I still develop some tools and skiddy stuff (but with a more experienced/professional touch). Once LLMs became popular, I started using them to help me learn a specific subject like a personal private teacher. Yes, I've used it to help me code and do other stuff too but **who cares** as long as I decide the logic and the AI can actually handle my plans.
-#### Notable projects I'm working on
-- Self-Hosted Captcha solving service: Now supports Cloudflare and support is planned for HCaptcha, Kasada, RECaptcha (v1, v2, v3) and more.
-- KuruDecompiler: A decompiler for Rocket League that turns a generated .json dump into Unreal Script decompiled packages.
-- Kuru: A Rocket League mod loader made for offline use that is gonna be my playground on the game for a while while also helping others make mods with an *(hopefully)* easier SDK than bakkesmod.
-- HCaptcha research: Reading the WASM disassembling of hsw and integrating it with my own existing solver, currently on hold because im fine-tuning a YOLO model for captchas.
-- Nuitka Decompiler: A decompiler that can consistently read and parse Nuitka binaries compiled with python because usually the pattern for the __main__ package is the same and reading BN's High/Low Level IL makes it easy to understand python-compiled code. | Not Started Yet.
-- My own portfolio: Remaking it because it's not updated and uses React. Yall can imagine what Github Pages + React does to the website performance...
-  
-> NOTE: While most of my work may seem unethical, it actually isn't. I purely do this for research and to learn/explore my favourite topics, i also make sure to include a disclaimer every time stating that nothing i do has malicious intent.
+I've been into IT for about 6 or 7 years. I started with some Discord bots (which, looking back, I consider just "larping" as a dev) before discovering my absolute LOVE for low-level programming. I'm also deeply interested in Cybersecurity and occasionally build utility tools and quick scripts, though now with a much more professional touch. 
 
+When LLMs blew up, I started using them as a personal tutor to help me grasp complex subjects quickly. Yes, I use AI to help me code and do other stuff, but **who cares?** As long as I'm the one architecting the logic and directing the AI to execute my plans, it's just another tool in the toolbox.
+
+#### Notable projects I'm working on
+- **Self-Hosted Captcha Solving Service**: Currently supports Cloudflare, with planned support for HCaptcha, Kasada, reCAPTCHA (v1, v2, v3), and more.
+- **KuruDecompiler**: A Rocket League decompiler that converts generated `.json` dumps into decompiled UnrealScript packages.
+- **Kuru**: An offline Rocket League mod loader. It serves as my personal playground for game modding while providing an *(hopefully)* easier SDK for others compared to BakkesMod.
+- **HCaptcha Research**: Analyzing the WASM disassembly of `hsw` and integrating it with my existing solver. *(Currently on hold while I fine-tune a YOLO model for captchas).*
+- **Nuitka Decompiler**: A tool to consistently parse Nuitka-compiled Python binaries. Since the `__main__` package patterns are usually identical, reading Binary Ninja's High/Low Level IL makes reverse-engineering Python-compiled code much easier. *(Not started yet).*
+- **Portfolio Rewrite**: Rebuilding my portfolio from scratch. The old one used React, and as you can imagine, GitHub Pages + React isn't great for website performance...
+  
+> **⚠️ Disclaimer:** While some of my projects (like captcha solvers or game modding) might look unethical at a glance, they are strictly for educational research and exploring my favorite topics. I ensure all public repositories include clear disclaimers stating they are not intended for malicious use.
 
 <!--TODO: Update these -->
 <h3 align="left">Languages and Tools:</h3>
@@ -39,4 +42,3 @@ I've been into IT for about 6/7 years, I started with some discord stuff (which 
     <img src="https://img.shields.io/badge/Discord-9E9E9E?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
-
